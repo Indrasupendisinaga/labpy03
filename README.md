@@ -15,7 +15,7 @@
 <p>
 <p>
 - Screenshot hasil program
-![Screenshot](sscreenshotlatihan1.png)
+<p> 
  
 
 
