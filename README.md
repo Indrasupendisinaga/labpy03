@@ -15,9 +15,7 @@
 <p>
 <p>
 - Screenshot hasil program
-<p> 
- ![screenshotlatihan1](https://user-images.githubusercontent.com/92582081/141254122-f7b5d6a9-74e4-4a39-93e4-cd641d0dcf2e.PNG)
-
+<p> ![screenshotlatihan1](https://user-images.githubusercontent.com/92582081/141266498-08c08f71-fb50-4a5a-813e-59f520aae651.PNG)
 
 # Latihan2
 - Sourcecode program
