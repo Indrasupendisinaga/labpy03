@@ -16,7 +16,47 @@
 
 # Latihan2
 - Sourcecode program
+<p> print ("------------------")
+<p> print ("Pertemuan ke 7")
+<p> print ("latihan 2")
+<p> print ("------------------")
+
+<p> print ("menampilkan bilangan terbesar dari N buah data yang diinputkan")
+
+<p> max = 0
+<p> while True:
+<p>    a=int(input("masukkan bilangan :"))
+<p>    if max < a :
+<p>        max=a
+<p>    if a ==0:
+<p>        break
+<p>print ("\n bilangan terbesar adalah:", max)
 
 
 # Program1
 - Sourcecode program
+<p> print ("------------------")
+<p> print ("Pertemuan ke 7")
+<p> print ("program 1")
+<p> print ("------------------")
+
+<p> print ("jumlah laba hasil investasi seorang pengusaha selama 8 bulan")
+<p> print ("------------------")
+<p> x=int(input("uang muka :"))
+
+<p> a=0*x 
+<p> b=0*x
+<p> c=0.01*x
+<p> d=0.01*x 
+<p> e=0.05*x 
+<p> f=0.05*x 
+<p> g=0.05*x 
+<p> h=0.03*x
+
+<p> y=[a, b, c, d, e, f, g, h]
+<p> for i in range (len(y)):
+<p>    print("laba bulan ke -",i+1,"sebesar:", y[i])
+<p> z= (a+b+c+d+e+f+g+h)
+<p> print ("-------------------")
+<p> print ("jumlah laba selama 8 bulan adalah:",z)
+<p> print ("-------------------")
