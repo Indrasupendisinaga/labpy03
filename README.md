@@ -12,6 +12,11 @@
 <p> for i in range (jumlah) :
 
 <p>    print ("data ke ", 1+i,"=>",(random.uniform(0.1,0.5))) 
+<p>
+<p>
+- Screenshot hasil program
+![Screenshot](sscreenshotlatihan1.png)
+ 
 
 
 # Latihan2
