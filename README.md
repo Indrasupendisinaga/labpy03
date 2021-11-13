@@ -15,7 +15,8 @@
 <p>
 <p>
 - Screenshot hasil program
-<p> ![screenshotlatihan1](https://user-images.githubusercontent.com/92582081/141266498-08c08f71-fb50-4a5a-813e-59f520aae651.PNG)
+<p> 
+![screenshotlatihan1](https://user-images.githubusercontent.com/92582081/141266498-08c08f71-fb50-4a5a-813e-59f520aae651.PNG)
 
 # Latihan2
 - Sourcecode program
@@ -34,6 +35,10 @@
 <p>    if a ==0:
 <p>        break
 <p>print ("\n bilangan terbesar adalah:", max)
+<>
+- Screenshot hasil program
+<p>
+![screenshotlatihan2](https://user-images.githubusercontent.com/92582081/141602274-9e2bd6d4-53ba-454e-b89a-8860bcdb0c37.PNG)
 
 
 # Program1
