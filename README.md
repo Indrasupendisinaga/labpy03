@@ -13,8 +13,8 @@
 
 <p>    print ("data ke ", 1+i,"=>",(random.uniform(0.1,0.5))) 
 <p>
+- Penjelasan Algoritma
 <p>
-<p> Penjelasan  Algoritma
 - Screenshot hasil program
 <p> 
   
