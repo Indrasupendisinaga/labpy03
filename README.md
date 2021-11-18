@@ -55,6 +55,11 @@
 
 ### Penjelasan algoritma  
 
+<p> 1. Masukan max=0
+<p> 2. Gunakan while True (untuk perulangan tak terbatas. jika bilangan tersebut bukan nol ,maka akan terus berulang ).
+<p> 3. Gunakan if (jika memasukan bilangan nol maka perulangan akan berhenti).
+<p> 4. Selanjutnya,gunakan if (untuk mencari nilai max = bilangan terbesar,lalu run/jalankan programnya).
+
 <p>
   
 ### Screenshot hasil program
