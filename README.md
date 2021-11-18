@@ -16,6 +16,12 @@
 <p>
   
 ## Penjelasan Algoritma
+  
+<p> 
+<p> 1. Masukan nilai N : 5.
+<p> 2. Gunakan for range (untuk mengulang data dari 1-5).
+<p> 3. Cetak data dan memasukan (random.uniform kurang dari 0.5).
+<p> 4. Jika selesai RUN/jalankan programnya.
 
 <p>
   
