@@ -14,9 +14,8 @@
 <p>    print ("data ke ", 1+i,"=>",(random.uniform(0.1,0.5))) 
 <p>
 <p>
+<p> Penjelasan  Algoritma
 - Screenshot hasil program
-<p> 
-- Penjelasan Algoritma
 <p> 
   
 ![screenshotlatihan1](https://user-images.githubusercontent.com/92582081/141266498-08c08f71-fb50-4a5a-813e-59f520aae651.PNG)
