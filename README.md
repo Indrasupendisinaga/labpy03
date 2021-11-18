@@ -1,5 +1,5 @@
 # Latihan1
-## Sourcecode program
+### Sourcecode program
 <p> print ("------------------")
 <p> print ("Pertemuan ke 7")
 <p> print ("latihan 1")
@@ -15,7 +15,7 @@
 
 <p>
   
-## Penjelasan Algoritma
+### Penjelasan Algoritma
   
 <p> 
 <p> 1. Masukan nilai N : 5.
@@ -25,7 +25,7 @@
 
 <p>
   
-## Screenshot hasil program
+### Screenshot hasil program
   
 <p>
   
