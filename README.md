@@ -101,7 +101,16 @@
 <p>
   
 ### Penjelasan Algoritma
-  
+
+<p> 1. Masukkan nilai a.
+<p> 2. Gunakan for untuk perulangan dari 1 sampai 8
+<p> 3. Lalu gunakan if pertama untuk menentukan laba bulan ke 1 dan ke 2, masukan variabel (b) kalikan nilai (a) dengan data bulan 1 dan 2, cetak (x) dan (b).
+<p> 4. Lalu gunakan if kedua untuk menentukan laba bulan ke 3 dan ke 4, masukan variabel (b) kalikan nilai (a) dengan data bulan 3 dan 4, cetak (x) dan (c).
+<p> 5. Lalu gunakan if ketiga untuk menentukan laba bulan ke 5 sampai ke 7, masukan variabel (b) kalikan nilai (a) dengan data bulan 5 sampai 7, cetak (x) dan (d).
+<p> 6. Lalu gunakan if keempat untuk menentukan laba bulan ke 8, masukan variabel (b) kalikan nilai (a) dengan data bulan 8, cetak (x) dan (e).
+<p> 7. Lalu total keseluruhan.
+<p> 8. Cetak total.
+
 <p>
 
 ### Screenshot hasil program
