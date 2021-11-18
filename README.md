@@ -12,9 +12,9 @@
 <p> for i in range (jumlah) :
 
 <p>    print ("data ke ", 1+i,"=>",(random.uniform(0.1,0.5))) 
-- Penjelasan Algoritma
+## Penjelasan Algoritma
 <p>
-- Screenshot hasil program
+### Screenshot hasil program
 <p> 
   
 ![screenshotlatihan1](https://user-images.githubusercontent.com/92582081/141266498-08c08f71-fb50-4a5a-813e-59f520aae651.PNG)
