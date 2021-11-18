@@ -12,7 +12,6 @@
 <p> for i in range (jumlah) :
 
 <p>    print ("data ke ", 1+i,"=>",(random.uniform(0.1,0.5))) 
-<p>
 - Penjelasan Algoritma
 <p>
 - Screenshot hasil program
@@ -43,6 +42,7 @@
   
 ![screenshotlatihan2](https://user-images.githubusercontent.com/92582081/141602274-9e2bd6d4-53ba-454e-b89a-8860bcdb0c37.PNG)
 
+<p>
 
 # Program1
 - Sourcecode program
