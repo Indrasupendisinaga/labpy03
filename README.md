@@ -71,7 +71,7 @@
 <p>
 
 # Program1
-- Sourcecode program
+### Sourcecode program
 <p> print ("------------------")
 <p> print ("Pertemuan ke 7")
 <p> print ("program 1")
@@ -97,7 +97,15 @@
 <p> print ("-------------------")
 <p> print ("jumlah laba selama 8 bulan adalah:",z)
 <p> print ("-------------------")
+
 <p>
-- Screenshot hasil program
+  
+### Penjelasan Algoritma
+  
+<p>
+
+### Screenshot hasil program
+
 <P>
+  
 ![screenshotprogram1](https://user-images.githubusercontent.com/92582081/141602338-ea8198a8-856e-4aa1-be8d-5a41bec13324.PNG)
