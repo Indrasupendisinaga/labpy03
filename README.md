@@ -15,11 +15,11 @@
 
 <p>
   
-### Penjelasan Algoritma
+## Penjelasan Algoritma
 
 <p>
   
-#### Screenshot hasil program
+## Screenshot hasil program
   
 <p>
   
