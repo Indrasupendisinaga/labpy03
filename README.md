@@ -15,7 +15,7 @@
 
 <p>
   
-### Penjelasan algoritma
+### Penjelasan program
   
 <p> 
 <p> 1. Masukan nilai N : 5.
@@ -53,7 +53,7 @@
 
 <p>
 
-### Penjelasan algoritma  
+### Penjelasan program
 
 <p> 1. Masukan max=0
 <p> 2. Gunakan while True (untuk perulangan tak terbatas. jika bilangan tersebut bukan nol ,maka akan terus berulang ).
@@ -100,7 +100,7 @@
 
 <p>
   
-### Penjelasan Algoritma
+### Penjelasan program
 
 <p> 1. Masukkan nilai a.
 <p> 2. Gunakan for untuk perulangan dari 1 sampai 8
